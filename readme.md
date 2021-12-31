@@ -1,5 +1,33 @@
 <br />
 <p align="center">
+
+  
+  <a href="https://play.google.com/store/apps/details?id=fi.tuni.tamk.tiko.bloomorgloom2&hl=fi&gl=US">
+    <h1 align="center">Bloom or Gloom</h1>
+  </a>
+  <h4 align="center">A mirror for portfolio purposes</h4>
+
+</p>
+<br />
+<br />
+
+## My part in the project
+- Responsible for most of the art in the game.
+- Coded / created:
+  - Main clicker-game gameplay
+  - Changing of the clothes and furniture
+  - All animations in the home-screen
+
+<br />
+<br />
+
+# Original README:
+
+
+
+
+<br />
+<p align="center">
   <a href="https://github.com/mirorauhala/bloom-or-gloom">
     <img src="./.github/logo.jpg" alt="Logo">
   </a>
